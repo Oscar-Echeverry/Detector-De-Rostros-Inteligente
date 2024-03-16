@@ -3,7 +3,7 @@ import numpy as np
 import time
 
 # Cargamos el clasificador de rostros
-clasificadorRostros  = cv2.CascadeClassifier("C:/Users/echev/OneDrive/Escritorio/Proyecto uno/Face-Detection/haarcascade_frontalface_default.xml")
+clasificadorRostros  = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
 # Iniciamos la captura de video
 videoCam = cv2.VideoCapture(0)
