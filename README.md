@@ -1,4 +1,4 @@
-# 🚀 Detección de Rostros - Un Proyecto de Oscar Echeverry 🚀
+# 🚀 Detección de Rostros Inteligente - Un Proyecto de Oscar Echeverry 🚀
 
 ¡Bienvenido al repositorio del proyecto de Detección de Rostros! Este proyecto, creado por Oscar Echeverri, utiliza tecnologías de vanguardia para detectar rostros en tiempo real.
 
